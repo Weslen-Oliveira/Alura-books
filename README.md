@@ -24,7 +24,7 @@
 
 🔗 **Deploy**: https://Weslen-Oliveira.github.io/alura-books/
 
-![AluraBooks Screenshot](img/captura%20de%20tela%20site.png)
+![AluraBooks Screenshot](img/captura%20de%20tela.png)
 
 ## 📂 Estrutura do Projeto
 
