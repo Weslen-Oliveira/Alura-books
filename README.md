@@ -22,7 +22,7 @@
 
 ## 🚀 Visualização
 
-🔗 **Deploy**: https://Weslen-Oliveira.github.io/alura-books/
+🔗 **Deploy**: https://weslen-oliveira.github.io/Alura-books/
 
 ![AluraBooks Screenshot](img/captura%20de%20tela.png)
 
