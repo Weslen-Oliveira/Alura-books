@@ -22,7 +22,7 @@
 
 ## 🚀 Visualização
 
-🔗 **Deploy**: https://weslen-oliveira.github.io/Alura-books/
+🔗 **Deploy**: <a href="https://weslen-oliveira.github.io/Alura-books" target="_blank">https://weslen-oliveira.github.io/Alura-books/</a>
 
 ![AluraBooks Screenshot](img/captura%20de%20tela.png)
 
